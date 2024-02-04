@@ -1,5 +1,11 @@
-# React basic
+# Introduction - Composants React TypeScript
+TypeScript est un langage de programmation développé par Microsoft. 
+C’est un sur-ensemble typé de JavaScript, et il fournit son propre compilateur. 
+Étant un langage typé, TypeScript peut trouver des erreurs et bugs lors de la compilation, 
+bien avant que l’application ne soit déployée. 
+Vous trouverez plus d’informations : https://www.typescriptlang.org/
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [React](https://reactjs.org/) apps in minutes. Use this repo with the [React quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react) to build and customize a new static site.
+Pour utiliser TypeScript, vous devez :
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started
+Quelques Composants React-Typescript et REDUX-THUNK.
