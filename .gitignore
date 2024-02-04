@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/.vs/ReactComponentsWicket/FileContentIndex
+/.vs/ReactComponentsWicket/v17
+/.vs
